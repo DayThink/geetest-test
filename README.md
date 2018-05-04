@@ -14,4 +14,7 @@
 4. 自己仿照iview表单验证扩展的表单验证公共方法，弥补添加可部分验证的场景  
 5. PC、移动端的适配，简单的使用media媒体控制
 
-**效果如下：**
+**效果如下：**  
+
+![login](https://github.com/LanlanXu/geetest-test/blob/master/readmepic/login.png "login")  
+![register](https://github.com/LanlanXu/geetest-test/blob/master/readmepic/register.png "register")
